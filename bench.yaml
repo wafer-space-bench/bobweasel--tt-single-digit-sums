@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/bobweasel/tt-single-digit-sums
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26d
+  slot: tt_um_wokwi_445254731311517697
+  project: Single Digit Sums
+  size: 1x1
+  kind: digital (Wokwi)
+  commit: 079ef9825d9f07f0aecfbc0cc16c75620e9f00c0
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26d/tt_um_wokwi_445254731311517697
+  branch: tapeout/tinytapeout/ttgf26d/tt_um_wokwi_445254731311517697
+  page: https://app.tinytapeout.com/shuttles/ttgf26d
+generated: '2026-10-17T23:16:44Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26d/tt_um_wokwi_445254731311517697
+- upstream/main
